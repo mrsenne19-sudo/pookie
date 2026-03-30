@@ -1,0 +1,11 @@
+#Ignored Files
+
+# Node modules
+node_modules/
+
+# Build directories
+/dist/
+/build/
+
+# Log files
+*.log
